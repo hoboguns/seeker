@@ -10,6 +10,6 @@ Serial code: fehmrW5rjSXP=94k7EqNCVfRTLQYeB@A*j
 4. and then it will HWID lock onto you
 5. and it will tell you to select " Local network session" and "Custom network session" choose witch ever one you need
 6. Then it will load the template you chose
-7. And it will ask for the location port you are at or a other person
+7. And it will ask for a port, Insert (8080 or 8084)
 8. then it will load and get your IP and u can choose to DDOS
 
