@@ -1,5 +1,5 @@
 # seeker (EDUCATIONAL PURPOSES ONLY)
-I dont calim any damage you do!
+ I dont calim any damage you do!
 
 !Proceed with caution!
 Serial code: fehmrW5rjSXP=94k7EqNCVfRTLQYeB@A*j
